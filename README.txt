@@ -62,8 +62,5 @@ Source: https://unsplash.com/@englr?photo=bIhpiQA009k
 
 == Changelog ==
 
-= 1.0 =
-* Released: February 11, 2017
-
 
 Initial release
