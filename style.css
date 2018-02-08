@@ -1,0 +1,110 @@
+/*
+ Theme Name: Dark Seventeen
+ Theme URI: https://wpsmartcare.com
+ Author: Your Name
+ Author URI: https://wpsmartcare.com
+ Template: twentyseventeen
+ Description: Child theme for Twenty Seventeen.
+ Version: 0.1
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:
+ Text Domain: twentyseventeen-child
+ */
+
+body, button, input, select, textarea {
+    color: #909090;
+}
+.navigation-top {
+    background: #000000;
+    border-bottom: 1px solid #1b1b1b;
+    border-top: 1px solid #1b1b1b;
+}
+.site-content-contain {
+    background-color: #000000;
+}
+.navigation-top a {
+    color: #909090;
+}
+.navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
+    color: #cccbcb;
+}
+blockquote {
+    color: #cccbcb;
+}
+
+body.has-header-image .site-title, body.has-header-video .site-title, body.has-header-image .site-title a, body.has-header-video .site-title a {
+    color: #000;
+}
+
+body.has-header-image .site-description, body.has-header-video .site-description {
+    color: #000;
+}
+
+body.page:not(.twentyseventeen-front-page) .entry-title {
+    color: #cccbcb;
+}
+.entry-title a, .entry-meta a, .page-links a, .page-links a .page-number, .entry-footer a, .entry-footer .cat-links a, .entry-footer .tags-links a, .edit-link a, .post-navigation a, .logged-in-as a, .comment-navigation a, .comment-metadata a, .comment-metadata a.comment-edit-link, .comment-reply-link, a .nav-title, .pagination a, .comments-pagination a, .site-info a, .widget .widget-title a, .widget ul li a, .site-footer .widget-area ul li a, .site-footer .widget-area ul li a {
+    -webkit-box-shadow: inset 0 -1px 0 #1b1b1b;
+    box-shadow: inset 0 -1px 0 #1b1b1b;
+}
+.site-footer {
+    border-top: 1px solid #1b1b1b;
+}
+
+h3 {
+    color: #8a8888;
+}
+a {
+    color: #8a8888;
+}
+label {
+    color: #8a8888;
+}
+.entry-content a:focus, .entry-content a:hover, .entry-summary a:focus, .entry-summary a:hover, .widget a:focus, .widget a:hover, .site-footer .widget-area a:focus, .site-footer .widget-area a:hover, .posts-navigation a:focus, .posts-navigation a:hover, .comment-metadata a:focus, .comment-metadata a:hover, .comment-metadata a.comment-edit-link:focus, .comment-metadata a.comment-edit-link:hover, .comment-reply-link:focus, .comment-reply-link:hover, .widget_authors a:focus strong, .widget_authors a:hover strong, .entry-title a:focus, .entry-title a:hover, .entry-meta a:focus, .entry-meta a:hover, .page-links a:focus .page-number, .page-links a:hover .page-number, .entry-footer a:focus, .entry-footer a:hover, .entry-footer .cat-links a:focus, .entry-footer .cat-links a:hover, .entry-footer .tags-links a:focus, .entry-footer .tags-links a:hover, .post-navigation a:focus, .post-navigation a:hover, .pagination a:not(.prev):not(.next):focus, .pagination a:not(.prev):not(.next):hover, .comments-pagination a:not(.prev):not(.next):focus, .comments-pagination a:not(.prev):not(.next):hover, .logged-in-as a:focus, .logged-in-as a:hover, a:focus .nav-title, a:hover .nav-title, .edit-link a:focus, .edit-link a:hover, .site-info a:focus, .site-info a:hover, .widget .widget-title a:focus, .widget .widget-title a:hover, .widget ul li a:focus, .widget ul li a:hover{
+	color: #FFFFFF;
+}
+
+tr {
+    border-bottom: 1px solid #1b1b1b;
+}
+
+thead th {
+    border-bottom: 2px solid #1b1b1b;
+}
+
+hr {
+    background-color: #1b1b1b;
+}
+
+pre {
+    background: #0e0e0e;
+}
+
+.widget ul li, .widget ol li {
+    border-bottom: 1px solid #1b1b1b;
+    border-top: 1px solid #1b1b1b;
+}
+
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea{
+	color: #1b1b1b;
+    background: #0a0909;
+    border: 1px solid #1b1b1b;
+    box-shadow: none;
+}
+input[type="text"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="number"]:focus, input[type="tel"]:focus, input[type="range"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="time"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="color"]:focus, textarea:focus {
+    color: #cccbcb;
+    border-color: #1b1b1b;
+}
+
+.entry-title a {
+    color: #8a8888;
+}
+
+h2.widget-title {
+    color: #8a8888;
+}
+
+.pagination, .comments-pagination {
+    border-top: 1px solid #1b1b1b;
+}
