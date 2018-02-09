@@ -1,6 +1,5 @@
 === Twenty Seventeen Child ===
-Contributors:  dandelionweb
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JEMTB4U8SYFL6
+Contributors:  rajanit2000
 Requires at least: WordPress 4.7
 Tested up to: WordPress 4.7.2
 Version: 0.1
@@ -10,18 +9,9 @@ Tags: child theme
 
 == Description ==
 
-A blank child theme for Twenty Seventeen. 
+A child theme for Twenty Seventeen. 
 
 For more information about Twenty Seventeen please go to https://codex.wordpress.org/Twenty_Seventeen.
-
-== Installation ==
-
-1. Download the zip file from https://github.com/ruthmaude/twentyseventeen-child.
-2. In your admin panel, go to Appearance -> Themes -> Add New -> Upload Theme -> Choose File.
-3. Browse your computer for the twentyseventeen-child.zip file downloaded in step 1 above.
-4. click Open -> Install Now -> Activate.
-5. Go to https://codex.wordpress.org/Twenty_Seventeen for a guide on how to customize this theme.
-6. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
 == Copyright ==
 
