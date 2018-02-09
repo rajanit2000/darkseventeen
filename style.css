@@ -9,7 +9,7 @@
  License: GNU General Public License v2 or later
  License URI: http://www.gnu.org/licenses/gpl-2.0.html
  Tags:
- Text Domain: twentyseventeen-child
+ Text Domain: darkseventeen
  */
 
 body, button, input, select, textarea {
@@ -107,4 +107,14 @@ h2.widget-title {
 
 .pagination, .comments-pagination {
     border-top: 1px solid #1b1b1b;
+}
+
+body.page-template-template-fullwdth{}
+body.page-template-template-fullwdth #primary header.entry-header {
+    width: 100% !important;
+    float: none !important;
+}
+body.page-template-template-fullwdth #primary .entry-content, body.page-two-column #comments {
+    float: none !important;
+    width: 100% !important;
 }
